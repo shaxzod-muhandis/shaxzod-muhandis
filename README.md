@@ -1,24 +1,26 @@
-<div align="center">
-  <img height="150" src="./assets/head-img.png"  />
-</div>
+![head photo](./assets/head-img.png)
+
 <h1 align="center">Assalomu Alaykum there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👩‍💻 About Me
 
 ###
 
-<p align="left">My name is Shaxzod and I'm a Frontend Engineer, from <img height="15" src="./assets/uzb.svg" alt="no icon"/> <b>Uzbekistan, Karshi</b>
-</p>
-<p>
-<br>- 🔭 I work as a Frontend Engineer at Open Web. <br>- 📚 I am currently deep learning JavaScript and TypeScript and Algorithms.<br>- ⚡ In my spare time I read books, write blogs and sometimes play CS2.<br/>
-- 🎯 My future goal is to become one of the best professionals in my field and to teach my field to others.
-</p>
+#### My name is Shaxzod and I'm a Frontend Engineer, from <img height="15" src="./assets/uzb.svg" alt="no icon"/> **Uzbekistan, Karshi**
+
+##### - 🔭 I work as a Frontend Engineer at Open Web.
+
+##### - 📚 I am currently deep learning JavaScript and TypeScript and Algorithms.
+
+##### - ⚡ In my spare time I read books, write blogs and sometimes play CS2.
+
+##### - 🎯 My future goal is to become one of the best professionals in my field and to teach my field to others.
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+### 🛠 Language and tools
 
 ###
 
