@@ -1,9 +1,14 @@
+![head-img](./assets/head-img.png)
+
 ### Assalomu Alaykum there 👋
 
+### 
 
-**shaxzod-muhandis/shaxzod-muhandis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+###
+
+### My name is Shaxzod and I'm a Frontend  Engineer 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
