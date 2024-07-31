@@ -10,7 +10,7 @@
 
 #### My name is Shaxzod and I'm a Frontend Engineer, from <img height="15" src="./assets/uzb.svg" alt="no icon"/> **Uzbekistan, Karshi**
 
-##### - 🔭 I work as a Frontend Engineer at Open Web.
+##### - 🔭 I work Freelancer.
 
 ##### - 📚 I am currently deep learning JavaScript and TypeScript and Algorithms.
 
